@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QWER", "QWER.vcxproj", "{477A2031-5D51-42C7-BE38-F4B888E258E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{477A2031-5D51-42C7-BE38-F4B888E258E4}.Debug|x64.ActiveCfg = Debug|x64
+		{477A2031-5D51-42C7-BE38-F4B888E258E4}.Debug|x64.Build.0 = Debug|x64
+		{477A2031-5D51-42C7-BE38-F4B888E258E4}.Debug|x86.ActiveCfg = Debug|x64
+		{477A2031-5D51-42C7-BE38-F4B888E258E4}.Release|x64.ActiveCfg = Release|x64
+		{477A2031-5D51-42C7-BE38-F4B888E258E4}.Release|x64.Build.0 = Release|x64
+		{477A2031-5D51-42C7-BE38-F4B888E258E4}.Release|x86.ActiveCfg = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D3B6A3B-C3EA-42F6-90F4-8C89E543906A}
+	EndGlobalSection
+EndGlobal
