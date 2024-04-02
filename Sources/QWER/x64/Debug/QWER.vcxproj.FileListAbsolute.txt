@@ -1,1 +1,3 @@
 C:\Users\Jungmin-WOPC\Desktop\QWER\Sources\QWER\x64\Debug\QWER.exe
+C:\Users\Jungmin-WOPC\Desktop\QWER\Sources\QWER\x64\Debug\QWER.exe.lastcodeanalysissucceeded
+C:\Users\Jungmin-WOPC\Desktop\QWER\Sources\QWER\x64\Debug\NativeCodeAnalysis.read.1.tlog
